@@ -9,13 +9,13 @@
 <p align="center">
 <img src="https://camo.githubusercontent.com/8af22349029a17264d518292692d0d98ec4fee838d790fc96c4efa81b6157de6/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d6a6176612e737667">
 </p>
----
-### Overview 
-* An Android  application ‘Oneomatic’ focuses on Assisting Needy and Aged. :older_man:
-* It is a App that provides user especially the elderly(old age) with an all-in-one functionality,so that it would be easy for them to use multiple features in single Application.
-* It is basically an Application that consists of Four applications in one with strong Authentication functionality.
----
-##### Application provided by Oneomatic are:-
+<hr>
+<h2> Overview </h2> <br>
+* An Android  application ‘Oneomatic’ focuses on Assisting Needy and Aged. :older_man: <br>
+* It is a App that provides user especially the elderly(old age) with an all-in-one functionality,so that it would be easy for them to use multiple features in single Application.<br>
+* It is basically an Application that consists of Four applications in one with strong Authentication functionality.<br>
+<hr>
+<h4> Application provided by Oneomatic are:- </h4>
 1) Pedometer : Step Counter Application
 2) Oxymeter : Oxygen level Calculation Application
 3) Medominder : Medicine Reminder Application
