@@ -1,5 +1,4 @@
-
-<h1 align="center>Oneomatic :calling: :phone:</h1> 
+<h1 align="center">Oneomatic :calling: :phone:</h1> 
 ---
 <p align="center">
 <img src="https://camo.githubusercontent.com/0efa350ac0c60c8c8987d5cd2bc182a113d41bf592b0fe7da712f1db5ec22a86/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4275696c642d70617373696e672d677265656e3f7374796c653d666f722d7468652d6261646765">
