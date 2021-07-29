@@ -47,9 +47,9 @@ $ cd AndroidProject
 <hr>
 <h2>Screenshots</h2>
 <div>
-  <img src="Screenshots/spl.jpeg" width="285">
-  <img src="Screenshots/reg.jpeg" width="285">
-  <img src="Screenshots/login.jpeg" width="285">
+  <img src="Screenshots/spl.jpeg" width="215">
+  <img src="Screenshots/reg.jpeg" width="215">
+  <img src="Screenshots/login.jpeg" width="215">
 </div>
 <br>
 <h3>Authentication</h3>
@@ -62,21 +62,21 @@ $ cd AndroidProject
 <br>
 <h3>Dashboard</h3>
 <div > 
-  <img src="Screenshots/d.jpeg" width="285">
-  <img src="Screenshots/d0.jpeg" width="285">
-  <img src="Screenshots/d1.jpeg" width="285">
+  <img src="Screenshots/d.jpeg" width="215">
+  <img src="Screenshots/d0.jpeg" width="215">
+  <img src="Screenshots/d1.jpeg" width="215">
 </div>
 <br>
 <h3>Pedometer</h3>
 <div>
-  <img src="Screenshots/step.jpeg" width="450">
+  <img src="Screenshots/step.jpeg" width="320">
 </div>
 <br>
 <h3>Oxymeter</h3>
 <div > 
-  <img src="Screenshots/oxy.jpeg" width="285">
-  <img src="Screenshots/oxy1.jpeg" width="285">
-  <img src="Screenshots/oxy2.jpeg" width="285">
+  <img src="Screenshots/oxy.jpeg" width="215">
+  <img src="Screenshots/oxy1.jpeg" width="215">
+  <img src="Screenshots/oxy2.jpeg" width="215">
 </div>
 <br>
 <h3>Medominder</h3>
@@ -89,8 +89,8 @@ $ cd AndroidProject
 <br>
 <h3>Translation</h3>
 <div > 
-  <img src="Screenshots/trans.jpeg" width="380">
-  <img src="Screenshots/trans1.jpeg" width="380">
+  <img src="Screenshots/trans.jpeg" width="280">
+  <img src="Screenshots/trans1.jpeg" width="280">
 </div>
 
 
