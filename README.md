@@ -10,16 +10,89 @@
 <img src="https://camo.githubusercontent.com/8af22349029a17264d518292692d0d98ec4fee838d790fc96c4efa81b6157de6/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d6a6176612e737667">
 </p>
 <hr>
-<h2> Overview </h2> <br>
-* An Android  application ‘Oneomatic’ focuses on Assisting Needy and Aged. :older_man: <br>
-* It is a App that provides user especially the elderly(old age) with an all-in-one functionality,so that it would be easy for them to use multiple features in single Application.<br>
-* It is basically an Application that consists of Four applications in one with strong Authentication functionality.<br>
+<h2> Overview :scroll: </h2> <br>
+ * An Android  application ‘Oneomatic’ focuses on Assisting Needy and Aged. :older_man: <br>
+ * It is a App that provides user especially the elderly(old age) with an all-in-one functionality,so that it would be easy for them to use multiple features in single Application.<br>
+ * It is an Application that consists of Four applications in one with strong Authentication functionality using Firebase Authentication.<br>
 <hr>
 <h4> Application provided by Oneomatic are:- </h4>
-1) Pedometer : Step Counter Application
-2) Oxymeter : Oxygen level Calculation Application
-3) Medominder : Medicine Reminder Application
-4) Translate Plus : Translator Application
+1) Pedometer : Step Counter Application <br>
+2) Oxymeter : Oxygen level Calculation Application <br>
+3) Medominder : Medicine Reminder Application <br>
+4) Translate Plus : Translator Application <br>
+<hr>
+<h2> Pre-requisites </h2>
+<p>In order to use the applications, you must have the following installed:</p>
+
+* Android Studio <br>
+* Android SDK version 29 <br>
+* JDK8 <br>
+* Emulator or Android device <br>
+* Register Project to [Firebase Console](https://console.firebase.google.com/) with Package name <br>
+* Download google-services.json <br>
+<hr>
+<h2> How To Use 🔧 </h2>
+
+From your command line:
+
+```bash
+
+# Clone this repository in Git Bash
+$ git clone https://github.com/TechieMeSB/AndroidProject.git
+
+# Go into the repository
+$ cd AndroidProject
+```
+
+<hr>
+<h2>Screenshots</h2>
+<div>
+  <img src="Screenshots/spl.jpeg" width="285">
+  <img src="Screenshots/reg.jpeg" width="285">
+  <img src="Screenshots/login.jpeg" width="285">
+</div>
+<br>
+<h3>Authentication</h3>
+<div >
+  <img src="Screenshots/fp.jpeg" width="175">
+  <img src="Screenshots/ver.jpeg" width="175">
+  <img src="Screenshots/verf.jpeg" width="175">
+  <img src="Screenshots/verf1.jpeg" width="175">
+</div>
+<br>
+<h3>Dashboard</h3>
+<div > 
+  <img src="Screenshots/d.jpeg" width="285">
+  <img src="Screenshots/d0.jpeg" width="285">
+  <img src="Screenshots/d1.jpeg" width="285">
+</div>
+<br>
+<h3>Pedometer</h3>
+<div>
+  <img src="Screenshots/step.jpeg" width="450">
+</div>
+<br>
+<h3>Oxymeter</h3>
+<div > 
+  <img src="Screenshots/oxy.jpeg" width="285">
+  <img src="Screenshots/oxy1.jpeg" width="285">
+  <img src="Screenshots/oxy2.jpeg" width="285">
+</div>
+<br>
+<h3>Medominder</h3>
+<div>
+  <img src="Screenshots/med.jpeg" width="175">
+  <img src="Screenshots/med0.jpeg" width="175">
+  <img src="Screenshots/med1.jpeg" width="175">
+  <img src="Screenshots/med2.jpeg" width="175">
+</div>
+<br>
+<h3>Translation</h3>
+<div > 
+  <img src="Screenshots/trans.jpeg" width="380">
+  <img src="Screenshots/trans1.jpeg" width="380">
+</div>
+
 
 
 
