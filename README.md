@@ -1,15 +1,20 @@
-<h1 align="center">Oneomatic :calling: :right_anger_bubble:</h1> 
+<div align="center"><img src="https://camo.githubusercontent.com/e5836c57c200644695d31ba01d95bef8888241245003fa34028a5d2ca081bd6e/68747470733a2f2f7472617669732d63692e6f72672f666f7373617369612f62616467652d6d616769632d616e64726f69642e7376673f6272616e63683d646576656c6f706d656e74">
+<img src="https://img.shields.io/badge/platform-Android-yellow.svg">
+<img src="https://camo.githubusercontent.com/610e58fd3b260e5d4e106a42588e60d9a1bee971324a8c23d9e30f4302e7f371/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4275696c742532307573696e672d416e64726f69642053747564696f2d3166343235662e737667">
+<img src="https://img.shields.io/badge/license-Apache%202-4EB1BA.svg?style=flat-square">
+<img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"> <br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></div>
+ 
+ 
+ ---
+
+
+<h1 align="center"><img src="https://user-images.githubusercontent.com/71335691/127775959-8e62f12a-c7c3-4372-9e64-610fd9cd4263.jpeg" width="50" height="30">ONEOMATIC<img src="https://user-images.githubusercontent.com/71335691/127775959-8e62f12a-c7c3-4372-9e64-610fd9cd4263.jpeg" width="50" height="30"></h1>
+
 ---
-<p align="center">
-<img src="https://camo.githubusercontent.com/0efa350ac0c60c8c8987d5cd2bc182a113d41bf592b0fe7da712f1db5ec22a86/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4275696c642d70617373696e672d677265656e3f7374796c653d666f722d7468652d6261646765">
-</p>
-<p align="center">
-<img src="https://camo.githubusercontent.com/ab3ddd38c43e019f6818c64c83319320914ccd05437c9d617b5d9a2aa0541397/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4275696c742532307573696e672d416e64726f696425323053747564696f2d7265643f7374796c653d666f722d7468652d6261646765">
-</p>
-<p align="center">
-<img src="https://camo.githubusercontent.com/8af22349029a17264d518292692d0d98ec4fee838d790fc96c4efa81b6157de6/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d6a6176612e737667">
-</p>
-<hr>
+
 <h2> Overview :scroll: </h2> <br>
  * An Android  application ‘Oneomatic’ focuses on Assisting Needy and Aged. :older_man: <br>
  * It is a App that provides user especially the elderly(old age) with an all-in-one functionality,so that it would be easy for them to use multiple features in single Application.<br>
@@ -30,6 +35,7 @@
 * Emulator or Android device <br>
 * Register Project to [Firebase Console](https://console.firebase.google.com/) with Package name <br>
 * Download google-services.json <br>
+* Enable Camera Permissions in setting <br>
 <hr>
 <h2> How To Use 🔧 </h2>
 
@@ -43,6 +49,14 @@ $ git clone https://github.com/TechieMeSB/AndroidProject.git
 # Go into the repository
 $ cd AndroidProject
 ```
+
+---
+### Demo :clapper:
+
+
+https://user-images.githubusercontent.com/71335691/127775731-5a1d4139-5b07-4b2e-b0bb-66fae07c3ee6.mp4
+
+---
 
 <hr>
 <h2>Screenshots</h2>
